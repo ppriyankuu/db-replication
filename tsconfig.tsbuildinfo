@@ -1,0 +1,1 @@
+{"root":["./src/primaryDB.ts","./src/replica.ts","./src/replicationManager.ts","./src/testing.ts","./src/types.ts"],"version":"5.8.2"}
