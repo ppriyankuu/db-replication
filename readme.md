@@ -7,7 +7,7 @@ A TypeScript implementation that mimics how production databases handle replicat
 - replicas sync data asynchronously
 - eventual consistency in action
 
-- *No expternal dependencies; pre typescript*
+- *No external dependencies; pre typescript*
 
 ### What it does
 - **Primary DB** : Handles all writes, maintains operation log
